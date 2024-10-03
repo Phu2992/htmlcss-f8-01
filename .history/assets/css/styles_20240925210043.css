@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    background-color: #e6f0ff;
+    height: 100vh;
+
+    margin: auto;
+}
+
+.content {
+    padding: 165px auto;
+}
