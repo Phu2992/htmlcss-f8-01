@@ -168,15 +168,11 @@ a {
 .logo-clients a:not(:nth-child(3)) {
     display: flex;
     align-items: center;
-    transform: translateY(-10px);
     height: 90px;
     border-radius: 12px;
     padding: 0 42px;
-}
-.logo-clients a:not(:nth-child(3)):hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
-
 /* =================Guides============= */
 /* ------Guides-title------ */
 .guides {
